@@ -5,7 +5,7 @@
   
   ``There is a literal backtick (`) here.``
   
-  ![My friend](/path/try/123-1502.jpg)
+  ![My friend](/path/to/try/123-1502.jpg)
   
 
 ### This is an H2
