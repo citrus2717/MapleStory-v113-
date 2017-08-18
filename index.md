@@ -5,7 +5,7 @@
   
   ``There is a literal backtick (`) here.``
   
-  ![My friend]()
+  ![My friend](123-1502.jpg)
   
 
 ### This is an H2
