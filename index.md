@@ -1,8 +1,10 @@
-# Welcome to GitHub Pages
+# Welcome to Python 
 
 ## [Author's Facebook](https://www.facebook.com/chen.han.3597 "title")
-## [Author's Gmail]<citrus2717@gmail.com>
-   *this is important*
+## <citrus2717@gmail.com>
+
+-安裝 
+   *this is important*
   
   ``There is a literal backtick (`) here.``
   
