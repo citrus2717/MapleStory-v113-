@@ -1,6 +1,6 @@
 # Welcome to GitHub Pages
 
-## [Facebook](https://www.facebook.com/chen.han.3597 "Title")
+## [Facebook](https://www.facebook.com/chen.han.3597)
 
 ### This is an H2
 
