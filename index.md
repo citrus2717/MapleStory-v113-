@@ -1,4 +1,5 @@
 # Welcome to MapleStory v113私服架設
+``操作環境在win7下``
 
 ## [Download](https://goo.gl/va11Yz "title")
 1. 安裝[JAVA8](https://goo.gl/XmoJS2)
